@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">S-PEN Test</string>
+    <string name="pen_only_enabled">Pen-Only</string>
+    <string name="pen_only_disabled">Touch or Pen</string>
+    <string name="cb_touch_disabled">Disable Touch Input</string>
+    <string name="cb_lights">Lights On</string>
+</resources>
